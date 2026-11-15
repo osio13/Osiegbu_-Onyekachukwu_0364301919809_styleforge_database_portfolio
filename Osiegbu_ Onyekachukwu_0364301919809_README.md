@@ -5,6 +5,7 @@
 * **Student ID:** 0364301919809
 * **Program:** Master of Science in Information Technology
 * **Institution:** MIVA Open University
+* **Githublink:** https://github.com/osio13/Osiegbu_-Onyekachukwu_0364301919809_styleforge_database_portfolio/blob/main/Osiegbu_%20Onyekachukwu_0364301919809_README.md
 
 This repository is a practical database portfolio for the **StyleForge Fashion Platform**, a simulated UK online fashion retailer. The same case study is used consistently across relational design, query optimisation, transactions, NoSQL modelling, and distributed/cloud database work.
 
